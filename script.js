@@ -15,7 +15,7 @@ function showMaintenance() {
         <h2>Maintenance Schedule</h2>
         <p>Upcoming maintenance schedule for the drainage system.</p>
         <ul>
-            <li>Next Maintenance: January 15, 2024</li>
+            <li>Next Maintenance: Feb 7, 2024</li>
             <li>Location: Sector 5, Downtown</li>
             <li>Scheduled Action: Pipe Cleaning</li>
         </ul>
